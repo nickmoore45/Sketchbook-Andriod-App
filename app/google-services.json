@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588967735952",
+    "project_id": "sketchbook-17e5a",
+    "storage_bucket": "sketchbook-17e5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588967735952:android:fcb4974f6c538fd0dd5e15",
+        "android_client_info": {
+          "package_name": "com.example.sketchbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588967735952-ii80be0f4bu22i8pg62h89tqoe53976r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sketchbook",
+            "certificate_hash": "1e2ca66e48840b48fbf197dc3af4ebebc0333f05"
+          }
+        },
+        {
+          "client_id": "588967735952-okh8jkr8l6p4sslqi8jhn06r78to1j74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwTWDausSXb0IGJpa6tge8IK05_92vGRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588967735952-okh8jkr8l6p4sslqi8jhn06r78to1j74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
